@@ -1,1 +1,1 @@
-FROM adoptopenjdk/maven-openjdk8
+FROM adoptopenjdk/maven-openjdk8:latest
